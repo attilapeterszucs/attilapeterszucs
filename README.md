@@ -1,6 +1,6 @@
 # Hi there, I'm Attila! 👋
 
-I'm a passionate and results-driven developer with a focus on building robust and user-friendly applications. I enjoy exploring new technologies, solving complex problems, and contributing to impactful projects.
+I'm a results-driven developer with a focus on building robust and user-friendly applications. I enjoy exploring new technologies, solving complex problems, and contributing to impactful projects.
 
 ---
 
