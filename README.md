@@ -99,5 +99,5 @@ Here are some of the technologies I've been working with:
 I'm always open to new opportunities and collaborations! Feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attilapeterszucs/)
-[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)]([YOUR_PERSONAL_WEBSITE_URL])
+[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://attilapeterszucs.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attilaszucs2002@gmail.com)
